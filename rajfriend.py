@@ -1,0 +1,6 @@
+rajfriend1=(1/2)
+rajfriend2=(2/3)
+raj=(3/4)
+print("Raj's first friend's birthday is"+rajfriend1)
+print("Raj's first second's birthday is"+rajfriend2)
+print("Raj's birthday is"+raj)
